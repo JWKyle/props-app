@@ -1,24 +1,10 @@
-# README
+# Props
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app is a sample app to allow members of a team to give props to other members of their team as a show of appreciation.  
 
-Things you may want to cover:
+## Tech used
 
-* Ruby version
+This project is an exercise in using Rails, Bootstrap, PG, and Angular.  Other gems used will be added here as they are implemented.
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Usage
